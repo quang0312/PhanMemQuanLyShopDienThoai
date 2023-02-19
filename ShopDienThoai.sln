@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopDienThoai", "ShopDienThoai.csproj", "{ECBAF9CA-CA93-40E4-A6E9-BBD8A8ED1B97}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{FFB80B89-C232-4995-868A-372C8574B3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBAF9CA-CA93-40E4-A6E9-BBD8A8ED1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBAF9CA-CA93-40E4-A6E9-BBD8A8ED1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBAF9CA-CA93-40E4-A6E9-BBD8A8ED1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBAF9CA-CA93-40E4-A6E9-BBD8A8ED1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB80B89-C232-4995-868A-372C8574B3F0}.Debug|Any CPU.ActiveCfg = Debug
+		{FFB80B89-C232-4995-868A-372C8574B3F0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B8228F-AE26-4F76-907A-3C6B8092663D}
+	EndGlobalSection
+EndGlobal
